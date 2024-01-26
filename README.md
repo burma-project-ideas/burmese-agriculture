@@ -4,4 +4,9 @@
 Summary
 >အပင်စိုက်နည်းတွေ၊ ထိန်းသိမ်းနည်းတွေ လေ့လာကြည့်ကြမယ်။
 
-Data များကို [BurmeseAgriculture.json](https://github.com/sannlynnhtun-coding/BlazorWasm.BurmeseAgriculture/blob/master/BlazorWasm.BurmeseAgriculture/wwwroot/data/BurmeseAgriculture.json) နှင့် ပုံများကို [img Folder](https://github.com/sannlynnhtun-coding/BlazorWasm.BurmeseAgriculture/tree/master/BlazorWasm.BurmeseAgriculture/wwwroot/data/img) တွင်ရရှိနိုင်ပါသည်။ ဤတွင်တစ်ခန်းရပ်ပါဦးမည်။
+Data များကို [BurmeseAgriculture.json](https://github.com/sannlynnhtun-coding/Burmese-Agriculture/blob/master/BlazorWasm.BurmeseAgriculture/wwwroot/data/BurmeseAgriculture.json) နှင့် ပုံများကို [img Folder](https://github.com/sannlynnhtun-coding/BlazorWasm.BurmeseAgriculture/tree/master/BlazorWasm.BurmeseAgriculture/wwwroot/data/img) တွင်ရရှိနိုင်ပါသည်။ ဤတွင်တစ်ခန်းရပ်ပါဦးမည်။
+
+
+![Alt text](https://github.com/sannlynnhtun-coding/Burmese-Agriculture/blob/main/BurmeseAgricultureFlow1.png)
+![Alt text](https://github.com/sannlynnhtun-coding/Burmese-Agriculture/blob/main/BurmeseAgricultureFlow2.png)
+![Alt text](https://github.com/sannlynnhtun-coding/Burmese-Agriculture/blob/main/BurmeseAgricultureMindMap.png)
