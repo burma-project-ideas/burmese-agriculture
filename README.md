@@ -9,5 +9,5 @@ Data များကို [BurmeseAgriculture.json](https://github.com/sannlynn
 
 ![Alt text](https://github.com/sannlynnhtun-coding/Burmese-Agriculture/blob/main/BurmeseAgricultureFlow1.jpg)
 ![Alt text](https://github.com/sannlynnhtun-coding/Burmese-Agriculture/blob/main/BurmeseAgricultureFlow2.jpg)
-![Alt text](https://github.com/sannlynnhtun-coding/Burmese-Agriculture/blob/main/BurmeseAgricultureMindMap.png)
+![Alt text](https://github.com/sannlynnhtun-coding/Burmese-Agriculture/blob/main/BurmeseAgricultureMindMap.jpg)
 
